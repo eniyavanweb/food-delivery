@@ -76,4 +76,29 @@
     font-size: 12px;
     font-family: 'Roboto';
     color: #5C5C5C;
+    
+}
+
+
+@media (max-width: 830px)
+{
+    .my-alter p {
+    
+        display: none;
+    }
+}
+
+
+
+@media (max-width: 450px)
+{
+    .my-alter img
+    {
+        display: none;
+    }
+
+    .my-alter p {
+        display: none;
+        
+    }
 }
