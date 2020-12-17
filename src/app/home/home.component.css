@@ -1,0 +1,667 @@
+/*section-1 */
+
+.bg-img {
+    background: url(../../assets/main-head.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+.heading-app {
+    color: #ffffff;
+    text-align: center;
+    width: 85%;
+    margin: auto;
+}
+
+.fixed-the-content {
+    padding-top: 5em;
+}
+
+.heading-app h3 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    padding-bottom: 1em;
+}
+
+.heading-app h1 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins';
+    padding-bottom: 1em;
+}
+
+.heading-app p {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+    padding-bottom: 1em;
+}
+
+.btn .play {
+    width: 236px;
+    height: 68px;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+    margin: 0 20px;
+}
+
+.btn .btn-1 {
+    background: #FA4A0C;
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+    border-radius: 30px;
+    outline: none;
+    margin: 21px 0px;
+}
+
+.btn .btn-2 {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 30px;
+    background: transparent;
+    outline: none;
+}
+
+.btn {
+    padding-top: 30px;
+    padding-bottom: 200px;
+    z-index: 10;
+}
+
+
+
+/*section-2*/
+
+.bg-img {
+    background: url(../../assets/main-head.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+}
+
+
+
+.heading-app {
+    color: #ffffff;
+    text-align: center;
+    width: 85%;
+    margin: auto;
+}
+
+.fixed-the-content {
+    padding-top: 5em;
+}
+
+.heading-app h3 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    padding-bottom: 1em;
+}
+
+.heading-app h1 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins';
+    padding-bottom: 1em;
+}
+
+.heading-app p {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+    padding-bottom: 1em;
+}
+
+/*section-3*/
+
+
+.main-image
+{
+    position: relative;
+    width: 100%;
+    height: 55vh;
+    text-align: center;
+    top: -16em;
+}
+
+
+/*section-2 name mari poiruchi first mela irrukura img. secound intha section*/
+
+.section-2
+{
+    text-align: center;
+    padding-top: 9em;
+}
+
+
+.bk-bk hr
+
+{
+   width: 65%;
+   margin: auto;    
+}
+
+.heading-under
+{
+    padding-top: 91px;
+}
+
+.heading-under h4
+{
+    font-size: 44px;
+    font-weight: 700;
+    font-family: 'poppins';
+}
+
+
+/*section-4*/
+
+.sec-4 {
+    width: 100%;
+    height: 60vh;
+}
+
+.container {
+    padding-top: 10em;
+}
+
+.row {
+    display: flex;
+    justify-content: center;
+}
+
+.change {
+    object-fit: cover;
+    width: 300px;
+    height: 437px;
+}
+
+.change-1 {
+    object-fit: cover;
+    width: 300px;
+    height: 666px;
+}
+
+.heading-section {
+    padding-top: 4em;
+}
+
+.my-pad {
+    padding: 0px 50px;
+}
+
+.heading-section h3 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    padding-bottom: 0.5em;
+}
+
+.heading-section h1 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins';
+    padding-bottom: 0.5em;
+}
+
+.heading-section p {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+}
+
+.heading-section a {
+    text-decoration: none;
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+
+.heading-section-1 {
+    padding-top: 10em;
+}
+
+.heading-section-1 h3 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    padding-bottom: 0.5em;
+}
+
+.heading-section-1 h1 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins';
+    padding-bottom: 0.5em;
+}
+
+.heading-section-1 p {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+}
+
+.heading-section-1 a {
+    text-decoration: none;
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+
+/*section-5*/
+
+.sec-5
+{
+    width: 100%;
+    height: 77vh;
+}
+
+.heading-section-1 {
+    padding-top: 10em;
+}
+
+.heading-section-1 h3 {
+    font-weight: 700;
+    font-size: 24px;
+    letter-spacing: 0.1px;
+    padding-bottom: 0.5em;
+}
+
+.heading-section-1 h1 {
+    font-size: 54px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+    font-family: 'Poppins';
+    padding-bottom: 0.5em;
+}
+
+.heading-section-1 p {
+    font-weight: 500;
+    font-size: 24px;
+    letter-spacing: 0.2px;
+}
+
+.heading-section-1 a {
+    text-decoration: none;
+    color: red;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.2px;
+}
+
+/*media query*/
+
+@media (max-width: 1060px) {
+    .heading-section {
+        padding-top: 1em;
+    }
+  
+}
+
+@media (max-width: 880px) {
+    .heading-section-1 h1 {
+        font-size: 32px;
+    }
+    .heading-section h1 {
+        font-size: 32px;
+    }
+}
+
+
+@media (max-width: 750px) {
+    .change-1 {
+        object-fit: cover;
+        width: 268px;
+        height: 476px;
+    }
+
+    .change {
+        object-fit: cover;
+        width: 244px;
+        height: 335px;
+    }
+
+    .heading-section-1 {
+        padding-top: 4em;
+    }
+
+    .main-image img
+    {
+        width: 424px;
+        height: 670px;
+    }
+
+    .sec-4
+{
+    width: 100%;
+    height: 45vh;
+}
+    .sec-5
+{
+    width: 100%;
+    height: 48vh;
+}
+
+.bk-bk hr
+
+{
+   width: 100%;
+   margin: auto;    
+}
+    
+}
+
+
+@media (max-width: 690px) {
+    .change-1 {
+        object-fit: cover;
+    width: 224px;
+    height: 398px;
+    }
+
+    .change {
+        object-fit: cover;
+        width: 211px;
+        height: 286px;
+    }
+
+    .heading-section-1 {
+        padding-top: 6em;
+    }
+
+    .heading-section h1 {
+        font-size: 22px;
+    }
+    .heading-section p {
+        
+        font-size: 14px;
+        
+    }
+
+    .heading-section-1 h1 {
+        font-size: 19px;
+    }
+
+    .heading-section-1 p {
+        
+        font-size: 14px;
+        
+    }
+
+    .my-pad {
+        padding: 0px 18px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+/*section-6*/
+
+.bk-img {
+    background: url(../../assets/foodbg.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.content-page {
+    text-align: center;
+    padding-top: 10em;
+}
+
+.content-page h3 {
+    font-size: 40px;
+    font-weight: 700;
+    color: #fff;
+}
+
+.content-page p {
+    font-size: 24px;
+    font-weight: 500;
+    color: #fff;
+    margin: 1em 0em;
+}
+
+.btn-btn .btn-3 {
+    background: #FA4A0C;
+    box-shadow: 0px 10px 30px rgba(183, 50, 39, 0.2);
+    border-radius: 10px;
+    outline: none;
+}
+
+.btn-btn .btn-4 {
+    border: 1px solid #FFFFFF;
+    box-sizing: border-box;
+    border-radius: 10px;
+    background: transparent;
+    outline: none;
+}
+
+.btn-btn {
+    padding-top: 30px;
+    padding-bottom: 200px;
+}
+
+.btn-btn .play {
+    width: 236px;
+    height: 68px;
+    font-size: 24px;
+    font-weight: 700;
+    letter-spacing: 0.1px;
+    color: #ffffff;
+    margin: 0 20px;
+}
+
+.alter {
+    margin-bottom: 2em;
+}
+
+/*media-query*/
+
+@media (max-width: 1100px) {
+    .main-img img {
+        width: 485px;
+        height: 521px;
+        position: relative;
+        top: -12em;
+        left: 0em;
+        object-fit: cover;
+    }
+    .img-and-con img {
+        object-fit: cover;
+        width: 268px;
+        height: 421px;
+        position: relative;
+        top: -2em;
+    }
+    .full-content {
+        padding-left: 14em;
+        padding-top: 0em;
+        margin-left: -13px;
+        width: 620px;
+    }
+    .img-and-con-4 img {
+        object-fit: cover;
+        width: 400px;
+        height: 400px;
+    }
+    .full-content-4 {
+        padding-left: 7em;
+        position: relative;
+        top: -15em;
+    }
+    .img-and-con-5 img {
+        position: relative;
+        top: -13em;
+        object-fit: cover;
+        width: 413px;
+        height: 403px;
+    }
+    .my-account-5 {
+        position: relative;
+        top: -25em;
+    }
+    .section-5 {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        right: 0em;
+    }
+
+    .full-content-4 {
+        padding-left: 8em;
+    }
+}
+
+@media (max-width: 930px) {
+    .main-img img {
+        width: 366px;
+    }
+    .full-content {
+        padding-left: 9em;
+        padding-top: 0em;
+        margin-left: -90px;
+        width: 538px;
+    }
+    .img-and-con {
+        padding-left: 5em;
+    }
+    .section-4 {
+        width: 100%;
+        height: 92vh;
+        position: relative;
+        left: -3em;
+    }
+    .section-5 {
+        width: 100%;
+        height: 100vh;
+        position: relative;
+        left: -7em;
+    }
+    .img-and-con-4 {
+        position: relative;
+        padding-left: 0em;
+        bottom: 15em;
+    }
+    .full-content-4 {
+        padding-left: 7em;
+    }
+}
+
+@media (max-width: 830px) {
+    .img-and-con img {
+        object-fit: cover;
+        width: 200px;
+        height: 421px;
+        position: relative;
+        top: -2em;
+    }
+    .img-and-con-4 img {
+        object-fit: cover;
+        width: 300px;
+        height: 400px;
+    }
+    .img-and-con-5 img {
+        position: relative;
+        top: -13em;
+        object-fit: cover;
+        width: 320px;
+        height: 403px;
+    }
+}
+
+
+@media (max-width: 450px)
+{
+
+
+    .heading-app {
+        color: #000;
+        text-align: center;
+        width: 100%;
+        
+    }
+
+    .bg-img {
+       background-image: none;
+        background: #FAFAFA;
+        }
+
+        .btn .btn-2 {
+            border: 1px solid #FA4A0C;
+            box-sizing: border-box;
+            border-radius: 30px;
+            color: #FA4A0C;
+            background: transparent;
+            outline: none;
+        }
+
+
+        .heading-app h3 {
+            
+            font-size: 16px;
+           
+        }
+
+        .heading-app h1 {
+            font-size: 35px;
+            width: 100%;
+            padding: 0px 10px;
+
+        }
+
+        .heading-app p {
+            
+            font-size: 24px;
+            padding: 30px;
+        }
+
+        .main-image img {
+            width: 286px;
+            height: 441px;
+            margin-top: 3em;
+        }
+
+
+        .main-image {
+            position: relative;
+            width: 100%;
+            height: 20vh;
+            text-align: center;
+            top: -16em;
+        }
+
+        .heading-under h4 {
+            font-size: 24px;
+
+        }
+
+        .heading-section
+        {
+            text-align: center;
+        }
+
+        .row {
+            display: inline-block;
+            justify-content: center;
+        }
+
+}
+

@@ -1,0 +1,79 @@
+.navbar {
+    width: 85%;
+    margin: auto;
+    padding: 35px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.logo {
+    width: 22%;
+    cursor: pointer;
+}
+
+.navbar ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 30px;
+    position: relative;
+}
+
+.navbar ul li a {
+    text-decoration: none;
+    color: #000000;
+    font-size: 16px;
+    letter-spacing: 0.2px;
+    font-weight: 600;
+    padding: 10px;
+}
+
+.navbar ul li::after {
+    content: '';
+    height: 3px;
+    width: 0%;
+    background: #009688;
+    position: absolute;
+    left: 0;
+    bottom: -10px;
+    transition: 0.5s;
+}
+
+.navbar ul li:hover::after {
+    width: 100%;
+}
+
+.navbar ul li a:hover {
+    color: #FA4A0C;
+}
+
+
+/*footer*/
+
+.my-alter {
+    width: 85%;
+    margin: auto;
+    padding: 35px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.my-alter ul li {
+    list-style: none;
+    display: inline-block;
+    margin: 0 30px;
+    position: relative;
+}
+
+.fab {
+    font-family: "Font Awesome 5 Brands";
+    color: orangered;
+    font-size: xx-large;
+}
+
+.my-alter p {
+    font-size: 12px;
+    font-family: 'Roboto';
+    color: #5C5C5C;
+}
