@@ -1,9 +1,13 @@
 <header>
+
     <div class="bg">
-    
+
+        <label for="check" class="checkbtn">
+            <i class="fas fa-bars" onclick="openNav()"></i>
+          </label>
+
         <div id="menu" class="navbar">
             <img src="assets/h1.png" class="logo">
-
             <ul>
                 <li> <a routerLink="/home">Home</a></li>
                 <li> <a routerLink="home">Product</a></li>
@@ -15,6 +19,15 @@
     </div>
 </header>
 
+
+
+<div id="mySidenav" class="sidenav ">
+    <a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>
+    <a onclick="closeNav()"  class="en-en" routerLink="/home">Home</a>
+    <a onclick="closeNav()"  class="en-en" routerLink="home">Product</a>
+    <a onclick="closeNav()"  class="en-en" routerLink="home">Faq</a>
+    <a onclick="closeNav()"  class="en-en" routerLink="home">Contact</a>
+  </div>
 
 <router-outlet></router-outlet>
 
@@ -37,5 +50,3 @@
 
     </div>
 </footer>
-
-
