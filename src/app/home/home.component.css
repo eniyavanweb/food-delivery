@@ -517,7 +517,6 @@ h1 {
     .full-content-4 {
         padding-left: 7em;
     }
-
     .sec-4 {
         width: 100%;
         height: 77vh;
@@ -616,16 +615,11 @@ h1 {
         width: 100%;
         margin: auto;
     }
-
     .section-2 {
         text-align: center;
         padding-top: 2em;
     }
-
-
 }
-
-
 
 @media (max-width: 690px) {
     .change-1 {
@@ -672,10 +666,7 @@ h1 {
     }
 }
 
-
-@media (max-width: 670px)
-
-{
+@media (max-width: 670px) {
     .sec-4 {
         width: 100%;
         height: 50vh;
@@ -740,7 +731,7 @@ h1 {
     }
     .sec-5 {
         width: 100%;
-        height: 134vh;
+        height: 104vh;
     }
     .row {
         display: flex;
@@ -780,20 +771,20 @@ h1 {
     }
     .change {
         object-fit: cover;
-        width: 211px;
-        height: 286px;
-        margin-top: 80px;
+        width: 200px;
+        height: 277px;
+        margin-top: 13px;
     }
     .change-1 {
         object-fit: cover;
         width: 224px;
-        height: 398px;
+        height: 229px;
         margin-left: 4em;
     }
     .change-2 {
         object-fit: cover;
         width: 224px;
-        height: 398px;
+        height: 229px;
         margin-left: 3em;
     }
     .heading-section-2 {
@@ -803,15 +794,12 @@ h1 {
         background: #252B42;
         position: relative;
         top: -5em;
-
     }
-
     .my-alter {
         width: 100%;
         position: absolute;
         top: 234em;
     }
-
     .btn-btn {
         padding-top: 29px;
         padding-bottom: 143px;
@@ -820,9 +808,7 @@ h1 {
     .btn-btn .play {
         margin: 0 9px;
     }
-
-    .heading-section-1
-     {
-        padding-top: 3em;
+    .heading-section-1 {
+        padding-top: 1px;
     }
 }
