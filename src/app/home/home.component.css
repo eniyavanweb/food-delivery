@@ -778,14 +778,16 @@ h1 {
     .change-1 {
         object-fit: cover;
         width: 224px;
-        height: 229px;
-        margin-left: 4em;
+        height: 232px;
+        margin-top: 2em;
+        margin-left: 2em;
     }
     .change-2 {
         object-fit: cover;
         width: 224px;
-        height: 229px;
-        margin-left: 3em;
+        height: 232px;
+        margin-top: 2em;
+        margin-left: 2em;
     }
     .heading-section-2 {
         padding-top: 0.5px;
@@ -795,11 +797,7 @@ h1 {
         position: relative;
         top: -5em;
     }
-    .my-alter {
-        width: 100%;
-        position: absolute;
-        top: 234em;
-    }
+   
     .btn-btn {
         padding-top: 29px;
         padding-bottom: 143px;

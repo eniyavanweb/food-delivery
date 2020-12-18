@@ -107,7 +107,7 @@
 }
 
 .sidenav a {
-    padding: 45px 8px 8px 32px;
+    padding: 23px 8px 23px 32px;
     text-decoration: none;
     font-size: 25px;
     color: #1affea;
@@ -306,9 +306,8 @@
     font-family: 'poppins';
 }
 
-.my-alter
-{
-    padding: 1px 0px;
+.my-alter {
+    padding: 10px 0px;
 }
 
 
